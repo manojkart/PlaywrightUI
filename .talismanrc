@@ -1,0 +1,45 @@
+fileignoreconfig:
+- filename: build/test-results/uismokeTests/TEST-com.turbo.UI.tests.EquityLedgerTest.xml
+  checksum: 97d3196113451fbe35bd98f3a27ddcb59f1ba10fbc44adaf983c7ab870a97ea9
+- filename: build/reports/tests/uismokeTests/classes/com.turbo.UI.tests.EquityLedgerTest.html
+  checksum: ec6839999d6d93161adba326ba68faef55c5412041c89846c471f204951a0f81
+- filename: build/reports/tests/uismokeTests/emailable-report.html
+  checksum: 7dc92da4d34f86526a716f43318f79679552613881859cf9976b0ac3e75999e4
+- filename: build/reports/tests/uismokeTests/testng-results.xml
+  checksum: 2178f42cbe3d1dabf34b8eae2997562268cb4b957023e9326b5a03b2cb2ab026
+- filename: tools/dependency-check/dependency-check-known-issues.xml
+  checksum: 2d596626a70b3d75770726b223c250d2a0946526325221fa4276eb251c5c6480
+- filename: test-output/emailable-report.html
+  checksum: 49b11c138831204dfba70cde021de3ce6e8fa5c40f1c7a75adaccb12f68d465d
+- filename: test-output/testng-results.xml
+  checksum: 8fcf5e8abad12cecc469d1cb96565e84aff1f5adafc713f639e5a8e9578d138a
+- filename: test-output/emailable-report.html
+  checksum: d61b94ae0466de2aaec7362a80ac0f1b6f3e41d00226929c1a7d1cf7a60b499f
+- filename: test-output/testng-results.xml
+  checksum: f5c1097fbc5e0605d947d33e56f25ab3136c77a2e0bcd9b1521309ef0183c303
+- filename: build.gradle
+  checksum: 1b6957fa061e2daa553055921a20b8208f55134015ca3a40708d46b363e8afc9
+- filename: src/main/java/com/turbo/Database/Keyvaltconnection.java
+  checksum: e03d530ffd5f44042f8c2719d3659a7e5048a18df7dca7a9bba89e3582922771
+- filename: build.gradle
+  checksum: 5fbddf27a268c1168c9f4b00ee103572707b01ca1b2bd73e46ea79d393d60e96
+- filename: src/main/java/com/turbo/API/apiMethods/APICommonMethods.java
+  checksum: 110f8bb330d0868e1286a37989152427f6684a339d4c7b9c096b0b1effa88b9f
+- filename: src/main/java/com/turbo/Database/Keyvaltconnection.java
+  checksum: 42cd8d55efd8ed75ad16a01d03a881c00334e489fbc7d9d4172ad38a81f67fdf
+- filename: Jenkinsfile
+  checksum: 93234f303278e1162f7c882409be87c2f7815016fce0ffae8832cdeab10a1904
+- filename: src/main/java/com/turbo/Database/Keyvaltconnection.java
+  checksum: 1d58de419babcbbaa9c4772577d30e5b75fe792c780b8feec234c9920fc570ff
+- filename: src/main/java/com/turbo/Database/DBconnection.java
+  checksum: a7e40912ec99c698b7828ed4626215787e008a74babaace8810d757eac68809e
+- filename: src/main/java/com/turbo/Database/Keyvaltconnection.java
+  checksum: 6bbb697c825d610402cf1aae39ec82bd0c78668b68fe4320a6941173fcdce1e8
+- filename: Jenkinsfile
+  checksum: 30557df02ea4733f34ea2ccc601482939e9ab94b99c83bbe2cf9df05f6b360ad
+- filename: src/main/java/com/turbo/Database/DBconnection.java
+  checksum: 6056845d3b2639e5032de4841a0f749064ff35e36c7bca04ac5c3c74b537fa55
+
+
+
+
